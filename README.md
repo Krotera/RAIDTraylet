@@ -1,6 +1,6 @@
 # RAIDTraylet
 ## What
-A tray-based, Linux RAID monitor I made for easy visual indication my mdadm RAID1 status.
+A tray-based, Linux RAID monitor I made for easy visual indication of my mdadm RAID1 status.
 
 (Made using Qt 5 on QtCreator 4.6.2 and tested on Ubuntu with KDE 5.44/Plasma 5.12 ... but never quite finished or used significantly then or since; I actually ended up switching from RAID to [rsync](https://wiki.archlinux.org/index.php/Rsync#As_a_backup_utility).)
 ## How
