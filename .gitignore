@@ -1,0 +1,7 @@
+# QtCreator files
+*.ui
+*.pro*
+*.user
+
+# Other local files
+*.desktop
